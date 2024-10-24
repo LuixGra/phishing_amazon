@@ -128,11 +128,17 @@ a {
 
 footer{
     text-align: center;
-    font-size: 8ptt;
+    font-size: 9pt;
+   
     
 }
 
 .cabeçalho{
-    justify-content: space-between;
-    gap: 30px;
+    
+    justify-content: center;
+    gap: 20px;
+    display: flex;
+
+    z-index: 100; 
+    
 }
